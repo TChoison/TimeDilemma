@@ -1,12 +1,12 @@
 #####################
 # VS Generated File #
 #####################
+*/.vs
 *.VC.db
 *.VC.opendb
 *.ipch
 *.suo
 *.sln
-TDO/TimeDilemma/.vs
 
 #########################
 # Unreal Generated File #
@@ -16,6 +16,6 @@ TDO/TimeDilemma/.vs
 */Saved
 */DerivedDataCache
 */Build
+*/Content
 *.umap
 *.uasset
-TDO/TimeDilemma/Content/
